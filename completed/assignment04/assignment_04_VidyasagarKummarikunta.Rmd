@@ -18,9 +18,7 @@ bibliography: bibliography.bib
 3. Indian food
 
 ## Images
-![All Cases (Log Plot)]
-
-(C:/Users/12702/Desktop/MODatascience/DSC-520/week_4/10-all-cases-log.png)  
+![All Cases (Log Plot)](/Users/12702/Desktop/MODatascience/DSC-520/10-all-cases-log.png)   
 
 
 
@@ -130,7 +128,9 @@ ggplot(heights_df, aes(x=height, y= earn, col=sex)) + geom_point() +
       ggtitle("Title: Heights Vs. Earnings") + xlab("Heights (Inches)") +
        ylab("Earnings (Dollars)")
 ```
-# Tables
+
+
+# Tables  
 
 ## Knitr Table with Kable
 
